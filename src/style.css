@@ -1,0 +1,12 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+    vertical-align: middle;
+    text-align: center;
+    padding: 25px 50px 75px 100px;
+    
+}
+.picture{
+    width: 400px;
+    height: 500px;
+    
+}
